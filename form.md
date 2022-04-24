@@ -9,6 +9,7 @@ Create a form with validation
 2) The design should be minimalistic, comfortable, easy to understand (made for users), for example: [Google Forms](https://www.google.com/forms/about/). Please, try to explain user why his/her form prompt is not correct, if there are errors. The form should contain submit button at visible place
 3) The code-base should be easy to read, clean, scalable (because this task is not complete one and will be your first step before a **big** adventure)
 4) Support 3 languages: 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English, 🇰🇿 Kazakh, 🇷🇺 Russian
+5) Preferred language is `Kotlin`, but `Java` is welcomed, too
 
 # Fields
 | Name                 | Description          | Requirement  | Format                                                                              |
