@@ -22,3 +22,8 @@ Create a form with validation
 | Password             | Пароль               | +            | At least 8 symbols, 1 uppercase letter, 1 special symbol (!\/$%^)                   |
 | Password confimation | Подтверждение пароля | +            | Must have the same value as password field                                          |
 
+# Result
+1) Register at github.com
+2) Read, google "what is github"
+3) Create a new repository
+4) Publish your project
