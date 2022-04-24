@@ -2,7 +2,14 @@
 
 ## Description:
 
-Create a form with validation
+Create a simple application, which would have a form with validation
+
+## You have to know or you should learn during the task:
+1) Language: English (basic level)
+2) IDE: Android Studio
+3) Programming language: Kotlin, Java
+4) Code sharing/versioning: GitHub
+5) Extra knowledge (not mandatory): Clean architecture, SOLID, DRY principles, MVP/MVVM/MVI architecture patterns
 
 ## Requirements:
 1) You can use simple Android SDK for building UI (for example: TextView, ImageView, EditText, etc.) or [Material Design components](https://github.com/material-components/material-components-android) (for example: MaterialTextView, ShapeableImageView, TextInputLayout, etc.)
