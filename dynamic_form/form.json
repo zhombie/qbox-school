@@ -1,0 +1,9 @@
+{
+  "title": "Sign up"
+  "description": "Create your account",
+  "presentation": {
+      "submission": {
+          "confirmation_message": "Thanks! Your response has been recorded"
+      }
+  }
+}
