@@ -27,6 +27,7 @@ Create a simple application, which would have a form with validation
 | Username             | Имя пользователя     | +            |                                                                                     |                 
 | IIN                  | ИИН (ЖСН)            | +            | [Remote link](https://ru.wikipedia.org/wiki/Индивидуальный_идентификационный_номер) |
 | Phone number         | Номер телефона       | +            | 7XXXYYYZZQQ                                                                         |
+| Birthday             | День рождения        | -            | DD-MM-YYYY                                                                          |
 | Password             | Пароль               | +            | At least 8 symbols, 1 uppercase letter, 1 special symbol (!\/$%^)                   |
 | Password confimation | Подтверждение пароля | +            | Must have the same value as password field                                          |
 
