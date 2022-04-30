@@ -1,4 +1,4 @@
-# Repositories
+# Accounts
 
 ## Table of Contents
 
