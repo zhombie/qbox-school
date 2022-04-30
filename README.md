@@ -1,7 +1,6 @@
-# QBox School
+# Android
 
-Hello, world!
+## Navigation
 
-## Tasks:
-1) [Static form](static_form/form.md)
-2) [Dynamic form](dynamic_form/form.md)
+1. [Resources](resources/) - materials, open-source projects, blogs
+2. [School](/school)
