@@ -15,27 +15,47 @@
 
 ### Работа с типами данных:
 
-1. int: 
-    1. 2 ** 5 (power)
-    2. 0 or 1
-    3. 5 % 10 (mod)
-    4. 10 // 3
+1. int:
+    1. int_1 + int_2
+    2. int_1 - int_2
+    3. int_1 * int_2
+    4. int_1 / int_2
+    5. int_1 ** int_2 (power)
+    7. int_1 % int_2 (mod)
+    8. int_1 // int_2 (floordiv)
+    9. int_1 > int_2 (gt)
+    10. int_1 < int_2 (lt)
+    11. int_1 >= int_1 (gte)
+    12. int_1 <= int_2 (lte)
+    13. int_1 == int_2 (compare)
+    14. int_1 and int_2
+    15. int_1 or int_2
   
-2. str: 
+2. str:
     1. .isdigit()
-    2. .strip()
-    3. .lstrip()
-    4. .rstrip()
-    5. .capitalize()
-    6. .startswith()
-    7. .endswith()
-    8. .split()
-    9. .upper()
-    10. .lower()
-    11. .format()
-    12. .index()
-    13. .count()
-    14. .zfill()
+    2. .isnumber()
+    3. .isalpha()
+    4. .islower()
+    5. .isupper()
+    6. .strip()
+    7. .lstrip()
+    8. .rstrip()
+    9. .capitalize()
+    10. .startswith()
+    11. .endswith()
+    12. .split()
+    13. .upper()
+    14. .lower()
+    15. .format()
+    16. .index()
+    17. .count()
+    18. .zfill()
+    19. .join()
+    20. .removeprefix()
+    21. .removesuffix()
+    22. .replace()
+    23. str_1 in str_2 (contains)
+    24. str_1 == str_2 (compare)
   
 3. set:
     1. .pop()
@@ -55,6 +75,9 @@
     5. .index()
     6. .insert()
     7. .remove()
+    8. list_1 + list_2 (add)
+    9. element in list (contains)
+    10. list_1 == list_2 (equals)
 
 5. dict:
     1. .get()
@@ -65,6 +88,8 @@
     6. .items()
     7. .clear()
     8. .copy()
+    9. del dict_1['key']
+    10. 'key' in dict_1 (contains)
 
 ### Работа со встроенными функциями:
 
