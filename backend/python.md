@@ -56,6 +56,9 @@
     22. .replace()
     23. str_1 in str_2 (contains)
     24. str_1 == str_2 (compare)
+    25. str_1[:] (substring)
+    26. str_1[int_1:] (substring)
+    27. str_1[int_1:int_2] (substring)
   
 3. set:
     1. .pop()
@@ -76,7 +79,7 @@
     6. .insert()
     7. .remove()
     8. list_1 + list_2 (add)
-    9. element in list (contains)
+    9. element in list (contains), element not in list (does not contain)
     10. list_1 == list_2 (equals)
 
 5. dict:
@@ -89,7 +92,7 @@
     7. .clear()
     8. .copy()
     9. del dict_1['key']
-    10. 'key' in dict_1 (contains)
+    10. 'key' in dict_1 (contains), 'key' not in dict_1 (does not contain)
 
 ### Работа со встроенными функциями:
 
@@ -140,3 +143,64 @@
     2. print()
     3. ord()
     4. ascii()
+
+### Ключевые слова зарезервированные языком
+
+1. and
+2. as
+3. assert
+4. break
+5. class
+6. continue
+7. def
+8. del
+9. elif
+10. else
+11. except
+12. False
+13. finally
+14. for
+15. from
+16. global
+17. if
+18. import
+19. in
+20. is
+21. lambda
+22. None
+23. nonlocal
+24. not
+25. or
+26. pass
+27. raise
+28. return
+29. True
+30. try
+31. while
+32. with
+33. yield
+
+### Классы
+
+1. Декораторы:
+    1. @staticmethod()
+    2. @classmethod()
+    3. @property
+
+2. Создание экземляра/объекта
+
+3. Наследование
+
+4. Абстрактный класс
+    1. @abc.ABC
+    2. @abstractmethod
+
+5. enum класс
+    1. @enum.unique
+    2. enum.Enum
+
+6. self/cls
+
+7. Вложенный класс
+
+8. Методы
